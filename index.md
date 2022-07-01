@@ -5,4 +5,4 @@ classes:
 title:  " "
 ---
 
-Welcome to the VoltPopulous Jekyll Template
+<center> Welcome to the VoltPopulous Jekyll Template </center>
