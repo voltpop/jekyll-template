@@ -1,5 +1,6 @@
 title: VoltPop Template site
-theme: jekyll-theme-modernist
+#theme: jekyll-theme-modernist
+theme: mmistakes/minimal-mistakes
 include:
   - _pages
 exclude:
