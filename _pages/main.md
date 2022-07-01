@@ -1,5 +1,5 @@
 layout: page
 title: "Posts"
-permalink: /site-test/welcome/
+permalink: "/jekyll-template/welcome/"
 
 Posts here!
