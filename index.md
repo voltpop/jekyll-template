@@ -2,7 +2,8 @@
 layout: splash
 classes:
   - landing
-title:  Welcome to the Party Pal!
+title:  " "
+---
 
-[main](/site-test/welcome/)
-testing
+* [main](site-test/welcome/)
+* testing
