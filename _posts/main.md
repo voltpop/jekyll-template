@@ -1,5 +1,5 @@
 layout: page
 title: "Posts"
-permalink: /main/
+permalink: /welcome/
 
-Posts
+Posts here!
