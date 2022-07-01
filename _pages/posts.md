@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Welcome"
+title: "Posts"
 permalink: /jekyll-template/welcome/
 ---
 
-Posts here!
+Posts go here!
