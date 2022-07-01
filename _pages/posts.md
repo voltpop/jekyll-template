@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: "Posts"
-permalink: /jekyll-template/posts/
+permalink: /posts/
 collection: posts
 
 ---
