@@ -1,5 +1,5 @@
 layout: page
 title: "Posts"
-permalink: /welcome/
+permalink: /site-test/welcome/
 
 Posts here!
