@@ -6,3 +6,8 @@ exclude:
   - README.md
 plugins:
   - jekyll-include-cache
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:path/
+    sort_by: date
