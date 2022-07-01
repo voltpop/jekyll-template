@@ -5,5 +5,4 @@ classes:
 title:  " "
 ---
 
-* [main](site-test/welcome/)
-* testing
+Welcome to the VoltPopulous Jekyll Template
