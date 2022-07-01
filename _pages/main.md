@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Posts"
-permalink: "/jekyll-template/welcome/"
+title: "Welcome"
+permalink: /jekyll-template/welcome/
 ---
+
 Posts here!
